@@ -1,0 +1,6 @@
+Invoking command in '/home/appfre/appfre_ws_sim/build/bunker_mini': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/appfre/appfre_ws_sim/src/bunker_mini -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/appfre/appfre_ws_sim/install/bunker_mini
+Invoked command in '/home/appfre/appfre_ws_sim/build/bunker_mini' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/appfre/appfre_ws_sim/src/bunker_mini -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/appfre/appfre_ws_sim/install/bunker_mini
+Invoking command in '/home/appfre/appfre_ws_sim/build/bunker_mini': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/appfre/appfre_ws_sim/build/bunker_mini -- -j8 -l8
+Invoked command in '/home/appfre/appfre_ws_sim/build/bunker_mini' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/appfre/appfre_ws_sim/build/bunker_mini -- -j8 -l8
+Invoking command in '/home/appfre/appfre_ws_sim/build/bunker_mini': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/appfre/appfre_ws_sim/build/bunker_mini
+Invoked command in '/home/appfre/appfre_ws_sim/build/bunker_mini' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/appfre/appfre_ws_sim/build/bunker_mini

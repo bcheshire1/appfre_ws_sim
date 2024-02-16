@@ -1,0 +1,1 @@
+/home/appfre/appfre_ws_sim/src/bunker_mini/launch/launch_nav2.launch.py
