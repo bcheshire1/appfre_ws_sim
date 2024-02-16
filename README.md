@@ -2,7 +2,6 @@
 
 For this workspace to run, a few extra packages need to be installed.
 
-<<<<<<< .merge_file_ExrAZi
 Firstly, udpate and upgrade apt
 ```
 sudo apt update
@@ -13,16 +12,10 @@ Install colcon
 ```
 sudo apt install python3-colcon-common-extensions
 ```
-
-Install ROS2 Humble using the provided documentation (ros-humble-desktop recommended):
-=======
 Firstly install ROS2 Humble using the provided documentation (ros-humble-desktop recommended):
->>>>>>> .merge_file_VKmhrb
 ```
 https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 ```
-
-<<<<<<< .merge_file_ExrAZi
 Install the Navigation2 Package
 ```
 sudo apt install ros-humble-navigation2 ros-humble-nav2-bringup
@@ -77,10 +70,8 @@ ros2 launch bunker_mini launch_nav2.launch.py world:=./src/bunker_mini/worlds/ro
 ```
 
 This runs a launch file that's located within the bunker_mini package. This launch file effectively runs a bunch of terminal commands, opening the relevant software to run the navigation2 stack
-# appfre_ws_sim
-=======
+
 Install the SLAM Toolbox by Steve Macenski:
 ```
 sudo apt install ros-humble-navigation2 ros-humble-nav2-bringup
 ```
->>>>>>> .merge_file_VKmhrb
